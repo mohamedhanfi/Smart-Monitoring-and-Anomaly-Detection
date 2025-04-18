@@ -1,0 +1,3 @@
+admin,admin123,admin
+arabykos,Mohamed123456,operator
+medo,12345678,operator
